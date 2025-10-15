@@ -5,7 +5,7 @@ Perfecto 👍 Aquí tienes el texto completo y listo para copiar y pegar directa
 ---
 Nota: En el archivo "Retos 2" se encuentran los pantallazos del uso de la palicación.
 ````markdown
-# 💰 Dashboard Financiero Interactivo — QuimQuinAgro 2025
+# 💰Diego Alejandro Ramirez
 
 Este proyecto es un **tablero financiero interactivo** desarrollado en **Python con Streamlit**, diseñado para visualizar y analizar la información contable de la Asociación **QuimQuinAgro** correspondiente al año 2025.  
 
