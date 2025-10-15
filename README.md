@@ -116,9 +116,11 @@ Incluye una lista desplegable con todos los socios registrados en la base de dat
 
 ## 👨🏻‍💻 7. Autor
 
-**Diego Alejandro Ramírez Benítez**
-Estudiante — *Introducción al Business Intelligence 2025-II*
-Proyecto desarrollado con el apoyo de **GPT-5**
+**Diego Alejandro Ramírez Benítez**  
+Estudiante — *Introducción al Business Intelligence 2025-II*  
+Proyecto desarrollado con el apoyo de **GPT-5**  
+
+**Docente:** Lina María Sepúlveda Cano
 
 ---
 
