@@ -1,6 +1,8 @@
 # Quimquinagro2
 Diseño de un tablero interactivo en Streamlit que permite a la asociación consultar y visualizar su información financiera de manera sencilla.
 *Manual de usuario*
+
+
 Nota: En el archivo "Retos 2" se encuentran los pantallazos del uso de la palicación.
 ````markdown
 # 💰Diego Alejandro Ramirez
